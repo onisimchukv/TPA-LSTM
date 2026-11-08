@@ -4,4 +4,4 @@ numpy==1.15.3
 tensorflow==1.9.0
 six==1.11.0
 requests==2.20.0
-tqdm==4.28.1
+tqdm==4.66.3
